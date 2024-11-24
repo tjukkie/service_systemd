@@ -17,5 +17,5 @@ Meer info: https://www.digitalocean.com/community/tutorials/how-to-use-systemctl
 
 Om nieuwe versie te downloaden:
 
-git clone https://github.com/westsurname/scripts.git
+git clone https://github.com/westsurname/scripts.git zie https://github.com/westsurname/scripts voor als je het voor de eerste keer doet ivm requirements.
 
